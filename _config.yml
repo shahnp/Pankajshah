@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Pankaj Shah"
-  avatar           : "/images/user1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/user1.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Data Analyst Learner Visionary Portfolio"
   location         : "Boston , MA"
   email            : "Pankajautomatic@gmail.com"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "channel/UCwbA06sCPfVQfqjkc3Y_Mdw"
+  youtube          : "UCwbA06sCPfVQfqjkc3Y_Mdw"
   blog             : "https://talktoavi.wordpress.com/"
   Article          : #
   CheatSheets      : "Have patience!!! Coming Soon. Please Refer to my linkedin Page for now."
