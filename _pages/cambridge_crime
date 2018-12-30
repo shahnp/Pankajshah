@@ -1,8 +1,26 @@
+
 ---
-title: "Cambridge_crime"
-permalink: /about/
+layout: posts
+permalink: /Project/cambridge_crime
+title: "Projects Posts by Tags"
+author_profile: true
 header:
-  image: "/images/Boston_common_washington.jpg"
+  image: "/images/zakim_bridge.png"
 ---
+
+{% include base_path %}
+{% include group-by-array
+collection=site.posts field = "tags" %}
+
+{% for tag in group_names %}
+  {% assign posts =
+  group_itmes[forloop.index0] %}
+  <h2 id ="{{tag | slugify }}"
+  class ="archive_subtitle">{{ tag }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
+
 
 https://rpubs.com/shah_np/454271
