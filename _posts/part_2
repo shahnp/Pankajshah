@@ -1,0 +1,139 @@
+---
+title: "Project: About Me"
+date: 2018-10-13
+tags: [Bio]
+header:
+  image: "/images/data1010.png, width = 200"
+excerpt: "Data Analyst, Data Science, Research Analyst"
+mathjax: "true"
+---
+
+# WELCOME To My Online Portfolio 
+![alt]({{ site.url }}{{ site.baseurl }}/images/about_me.png)
+
+<p align="justify">
+  Hello, Nice to virtually meet you.
+  I want my portfolio to be direct reflection of my journey to become Data Scientist. Throughout my portfolio you will get an   opportunity to learn and know more about me. This E- portfolio is made for collections of outputs I will produced over my     work. My goal would is to educate new learners and motivate them by complitation of finished work created with sound           knowledge on certain topics, skills in computer and digital design with touch of creativity and my passion for the subject.
+  
+  I pride myself on reliable communication and being an easy to work with, "friendly guy"
+ 
+  The power of education is life long. I know I will be learning for the rest of my life. I didn't invent the Internet I will   try to make it even better. Let's Work together. My interest includes Statistics, Data analysis, Education, Data Insights,     Data Visualization. 
+ 
+
+  I am currently working on adding more content and additional Exploratory project. Beside working on blogs, channels and       revamping new homepage, I am also trying to build my own websites. 
+
+  So there is more to look forward to. :)
+
+  Feel free to look around, or get in touch. 
+  
+</p>
+
+# Intro:
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
+<p align="justify">
+  
+  Hi, My name is cambridge_crime.
+
+  I hail from Kathmandu Nepal. As of now, I am completing my Master in Informatics from Northeastern University, Boston, Ma.     Currently living in Boston and working as a Research Analyst at Massachusetts General Hospital. I am looking forward to       work for kick-ass startup team as well as any other organization where I will be good fit. I have worked in past with very     intelligent and interactive Analytics team to build and analyzed various projects in Healthcare field. My Interest lies       apart from the world of Statistics and Machine Learning. I love to build dashboards and convey my message to all my           colleague through Visualizations. Also, to help them interact with the data products and understand the power of               Visualization through data. I believe you need to be creative as well as affirmative to tell the good story.
+
+</p>
+
+### What do I know
+
+As a result of my enduring curiosity in the world of Machine Learning and AI. I have gained experienced with
+
+* python  
+* R  
+* SQL  
+* NLTK  
+* Scikit-learn  
+* Pandas & Numpy   
+* Tableau  
+* Data Studio    
+* IPython notebook
+* RStudio  
+* Colaboratory  
+* Exposure to PowerBI, QlikView   
+* HTML   
+* Javascript etc.
+
+Use with Concepts:
+1. Data analytics
+2. Statistical Data Analysis
+3. Natural Language Processing
+4. Data Visualization
+5. Database Systems & Information Modeling
+6. Web Application Scrapping. etc.
+
+Certificates:
+* Please refer to my [Linkedin](https://www.linkedin.com/in/pankajshah1/) to see all upto date certificates as well as Work Experience.
+
+Please do Check Out my sample notebook Github Repo, kaggle for some of the projects that can be shared on public domain.
+Github [link](https://github.com/shahnp)
+
+Thank you so much for checking my portfolio. Feel free to connect on [Linkedin](https://www.linkedin.com/in/pankajshah1/) or get in touch if you would like to discuss more about opportunities, collaboration,consultation  or just to have a cup of Coffee. Beside all these I am great coffee lover and hiker.
+
+I am always happy to chat.😀
+
+![alt]({{ site.url }}{{ site.baseurl }}/images/message_here.gif)
+Contact Me at Pankajautomatic@gmail.com
+  
+1.
+Python code block:
+```python
+    import numpy as np
+    import Pandas as pd
+
+    def test_function(x, y):
+      z = np.sum(x,y)
+      return z
+```
+2.
+R code block:
+```r
+library(dplyr)
+library(tidyverse)
+url<–"https://data.boston.gov/dataset/311-service-requests"
+df <- read_csv(url) # Reading boston 311 csv file
+head(df)
+```
+3.
+SQL code block
+
+```
+{sql connection=}
+SELECT *
+FROM Customers
+WHERE CustomerID=1 ;
+```
+4. Inline Sample Code
+
+Here's some inline code `x+y`.
+
+Here's an image:
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/Mountain_Nepal.png" alt="linearly separable data">
+
+Here's Same image using Kramdown:
+![alt]({{ site.url }}{{ site.baseurl }}/images/Mountain_Nepal.png)
+
+Here's different image using Kramdown:
+![alt]({{ site.url }}{{ site.baseurl }}/images/coffee_beans.jpg)
+
+Here's some math:
+
+$$z=x+y$$
+
+You can also put it inline $$z=x+y$$
+
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
