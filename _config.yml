@@ -92,7 +92,7 @@ author:
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
-  codepen          : "shahnp/full/jXaBbw"
+  codepen          : "shahnp/jXaBbw"
   dribbble         :
   flickr           : "photos/167411485@N05/galleries"
   facebook         : "pankaj.shah.87"
@@ -101,7 +101,7 @@ author:
   gitlab           :
   google_plus      : "discover"
   keybase          :
-  instagram        : "racer_light/?hl=en"
+  instagram        : "wynk_a/?hl=en"
   lastfm           :
   linkedin         : "pankajshah1/" # "(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
